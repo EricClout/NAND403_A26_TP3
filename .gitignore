@@ -1,4 +1,2 @@
-.vscode/**
-.venv/**
-Fichier_JSON/**
-Fichier_Maya**
+.vscode**
+.venv**
